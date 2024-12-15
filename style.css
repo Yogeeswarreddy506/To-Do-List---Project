@@ -1,0 +1,19 @@
+input[type="text"]{
+    width:85vw;
+    height: 45px;
+    font-size: xx-large;
+}
+button{
+    width: 10vw;
+}
+hr{
+    color: rgb(255, 115, 0);
+}
+.divcolor{
+    background-color: rgb(162, 222, 198);
+}
+ul,b{
+font-size: x-large;
+text-decoration: solid;
+letter-spacing: 0.5px;
+}
